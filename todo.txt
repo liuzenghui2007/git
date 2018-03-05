@@ -1,1 +1,4 @@
 开发者2修改todo.txt
+
+
+开发者2修改todo.txt, 接下来开发者1不pull直接修改todo.txt.
